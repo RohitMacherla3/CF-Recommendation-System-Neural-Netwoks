@@ -1,0 +1,2 @@
+model_checkpoint_path: "neural_net_weights_curr.pkl"
+all_model_checkpoint_paths: "neural_net_weights_curr.pkl"
